@@ -1,16 +1,13 @@
 alembic==1.4.1
 altair==4.1.0
-argon2-cffi @ file:///D:/bld/argon2-cffi_1596630110014/work
 astor==0.8.1
 astropy==4.0.1.post1
 atomicwrites==1.4.0
 attrs==19.3.0
 azure-core==1.8.2
 azure-storage-blob==12.5.0
-backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
 backports.functools-lru-cache==1.6.1
 base58==2.0.1
-bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
 blinker==1.4
 blis==0.4.1
 boto3==1.15.16
@@ -19,7 +16,6 @@ cachetools==4.1.1
 catalogue==1.0.0
 catboost==0.24.2
 certifi==2020.6.20
-cffi @ file:///D:/bld/cffi_1595805721274/work
 chardet==3.0.4
 click==7.1.2
 cloudpickle==1.6.0
@@ -51,10 +47,7 @@ htmlmin==0.1.12
 idna==2.10
 ImageHash==4.1.0
 imbalanced-learn==0.7.0
-importlib-metadata @ file:///D:/bld/importlib-metadata_1593211612489/work
 iniconfig==1.0.1
-ipykernel @ file:///D:/bld/ipykernel_1595447157738/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///D:/bld/ipython_1596256513928/work
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 isodate==0.6.0
@@ -62,9 +55,7 @@ itsdangerous==1.1.0
 jedi==0.15.2
 Jinja2==2.11.2
 jmespath==0.10.0
-joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1593624380152/work
 jsonschema==3.2.0
-jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1594732094290/work
 jupyter-core==4.6.3
 kiwisolver==1.2.0
 kmodes==0.10.2
@@ -81,19 +72,13 @@ mlxtend==0.17.3
 msrest==0.6.19
 murmurhash==1.0.2
 nbconvert==5.6.1
-nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1594060262917/work
 networkx==2.4
 nltk==3.5
-notebook @ file:///D:/bld/notebook_1597285459320/work
 numba==0.50.1
 numexpr==2.7.1
-numpy @ file:///D:/bld/numpy_1595523078866/work
 oauthlib==3.1.0
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
-pandas @ file:///D:/bld/pandas_1595958729109/work
 pandas-profiling==2.8.0
 pandocfilters==1.4.2
-parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1596584577899/work
 pathtools==0.1.2
 patsy==0.5.1
 phik==0.10.0
@@ -104,14 +89,11 @@ plotly==4.9.0
 pluggy==0.13.1
 ppscore==1.0.0
 preshed==3.0.2
-prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1590412252446/work
 prometheus-flask-exporter==0.18.1
-prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1597061474901/work
 protobuf==3.13.0
 py==1.9.0
 pyarrow==1.0.1
 pycaret==2.1.2
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
 pydeck==0.5.0b1
 Pygments==2.6.1
 pyLDAvis==2.1.2
@@ -134,11 +116,8 @@ requests==2.24.0
 requests-oauthlib==1.3.0
 retrying==1.3.3
 s3transfer==0.3.3
-scikit-learn @ file:///D:/bld/scikit-learn_1596546337481/work
-scipy @ file:///C:/ci/scipy_1592916958183/work
 seaborn==0.10.1
 Send2Trash==1.5.0
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
 smart-open==3.0.0
 smmap==3.0.4
 spacy==2.3.2
@@ -155,7 +134,6 @@ terminado==0.8.3
 testpath==0.4.4
 textblob==0.15.3
 thinc==7.4.1
-threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
 toml==0.10.1
 toolz==0.11.1
 tornado==6.0.4
@@ -169,7 +147,6 @@ visions==0.4.4
 waitress==1.4.4
 wasabi==0.8.0
 watchdog==0.10.3
-wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1595859607677/work
 webencodings==0.5.1
 websocket-client==0.57.0
 Werkzeug==1.0.1
